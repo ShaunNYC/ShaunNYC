@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-label="Shaun — independent developer building macOS apps and AI workflow tools">
+  <rect width="1440" height="440" rx="28" fill="#101c2e"/>
+  <path d="M1048 0h364a28 28 0 0 1 28 28v384a28 28 0 0 1-28 28h-364z" fill="#15253b"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="72" cy="80" r="5" fill="#eaa57d"/>
+    <text x="92" y="87" fill="#b5c6d9" font-size="20" letter-spacing="3">INDEPENDENT DEVELOPER</text>
+    <text x="64" y="208" fill="#f7f4ed" font-size="90" font-weight="700" letter-spacing="-4">Hi, I'm Shaun.</text>
+    <text x="68" y="273" fill="#b5c6d9" font-size="33">macOS apps &amp; AI workflow tools.</text>
+    <path d="M68 324h716" stroke="#314158" stroke-width="1"/>
+    <text x="68" y="375" fill="#eaa57d" font-size="20" letter-spacing="2">BUILDING AGENT PULSE</text>
+  </g>
+  <g transform="translate(955 58)">
+    <rect x="0" y="0" width="348" height="230" rx="19" fill="#213349" stroke="#4b6078" stroke-width="2"/>
+    <path d="M0 46h348" stroke="#4b6078" stroke-width="2"/>
+    <circle cx="24" cy="24" r="5" fill="#f2b38d"/>
+    <circle cx="42" cy="24" r="5" fill="#e8d19c"/>
+    <circle cx="60" cy="24" r="5" fill="#9cc4b8"/>
+    <path d="M29 81h124M29 104h186M29 127h157" stroke="#8ba5bf" stroke-width="9" stroke-linecap="round"/>
+    <path d="M29 170h57M104 170h88" stroke="#70bce7" stroke-width="9" stroke-linecap="round"/>
+    <path d="M29 195h109" stroke="#f2b38d" stroke-width="9" stroke-linecap="round"/>
+    <rect x="104" y="151" width="292" height="184" rx="24" fill="#0c1422" stroke="#67788d" stroke-width="2"/>
+    <g fill="#223249" stroke="#4e6f97" stroke-width="2">
+      <rect x="123" y="171" width="54" height="54" rx="11"/>
+      <rect x="190" y="171" width="54" height="54" rx="11"/>
+      <rect x="257" y="171" width="54" height="54" rx="11"/>
+      <rect x="324" y="171" width="54" height="54" rx="11"/>
+      <rect x="123" y="238" width="54" height="54" rx="11"/>
+      <rect x="190" y="238" width="54" height="54" rx="11"/>
+      <rect x="257" y="238" width="54" height="54" rx="11"/>
+      <rect x="324" y="238" width="54" height="54" rx="11"/>
+    </g>
+    <rect x="123" y="171" width="54" height="54" rx="11" fill="#77bfea"/>
+    <rect x="190" y="171" width="54" height="54" rx="11" fill="#edab82"/>
+    <path d="M140 197h20M150 187v20" stroke="#102237" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="217" cy="198" r="10" fill="none" stroke="#412d2a" stroke-width="3"/>
+    <path d="M203 312h96" stroke="#a9c0d4" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
