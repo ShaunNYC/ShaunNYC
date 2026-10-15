@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-label="Shaun — independent developer building macOS apps and AI workflow tools">
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-label="Shaun — developer with a background in software, games, and product">
   <rect width="1440" height="440" rx="28" fill="#101c2e"/>
   <path d="M1048 0h364a28 28 0 0 1 28 28v384a28 28 0 0 1-28 28h-364z" fill="#15253b"/>
   <g font-family="Arial, Helvetica, sans-serif">
     <circle cx="72" cy="80" r="5" fill="#eaa57d"/>
     <text x="92" y="87" fill="#b5c6d9" font-size="20" letter-spacing="3">INDEPENDENT DEVELOPER</text>
     <text x="64" y="208" fill="#f7f4ed" font-size="90" font-weight="700" letter-spacing="-4">Hi, I'm Shaun.</text>
-    <text x="68" y="273" fill="#b5c6d9" font-size="33">macOS apps &amp; AI workflow tools.</text>
+    <text x="68" y="273" fill="#b5c6d9" font-size="33">Software, games &amp; product.</text>
     <path d="M68 324h716" stroke="#314158" stroke-width="1"/>
     <text x="68" y="375" fill="#eaa57d" font-size="20" letter-spacing="2">BUILDING AGENT PULSE</text>
   </g>
